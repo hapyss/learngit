@@ -1,3 +1,7 @@
 feature 1024
 feature 1110
+<<<<<<< HEAD
 xiaomi 6:32
+=======
+pc2019190628
+>>>>>>> a8bd38f131a8f0cc61380a5c9d61d9719d616fe3
